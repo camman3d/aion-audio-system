@@ -1,0 +1,10 @@
+{
+    "mqtt": {
+        "enabled": true,
+        "host": "192.168.2.10"
+    },
+    "dmx": {
+        "host": "192.168.2.190",
+        "protocol": "sacn"
+    }
+}
